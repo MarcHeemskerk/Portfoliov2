@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db4faf06-7e9c-4c89-b422-6ab0986c7dbf" name="marc.smuldesign.nl" url="http://ftp.d341513.cp.hostnet.nl">
+        <fileTransfer host="ftp.d341513.cp.hostnet.nl" port="21" rootFolder="/webspace/httpdocs/marc.smuldesign.nl/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
